@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shajjad-142&label=Profile%20views&color=0e75b6&style=flat" alt="shajjad-142" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shajjad-142" alt="shajjad-142" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shajjadshawon15" target="blank"><img src="https://img.shields.io/twitter/follow/shajjadshawon15?logo=twitter&style=for-the-badge" alt="shajjadshawon15" /></a> </p>
 
 - 🔭 I’m currently working on **youtube**
@@ -30,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajjad-142&show_icons=true&locale=en&layout=compact" alt="shajjad-142" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shajjad-142&show_icons=true&locale=en" alt="shajjad-142" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shajjad-142&" alt="shajjad-142" /></p>
