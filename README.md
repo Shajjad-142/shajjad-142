@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **youtube**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **C & C++**
+- 💬 Ask me about **C & C++ & JAVA**
 
-- 📫 How to reach me **21225103142@cse.bubt.edu.bd**
+- 📫 How to reach me **shajjadshawon0170@gmail.com  or  21225103142@cse.bubt.edu.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
