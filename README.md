@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shajjad Hossain Shawon</h1>
+<h1 align="center">Hi, I'm Shajjad Hossain Shawon</h1>
 <h3 align="center">I am learning programing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shajjad-142&label=Profile%20views&color=0e75b6&style=flat" alt="shajjad-142" /> </p>
