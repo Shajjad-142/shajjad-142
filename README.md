@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm Shajjad Hossain Shawon 👋 </h1>
-<h3 align="center">I am learning programing.</h3>
+<h1 align="center">I'm Md. Shajjad Hossain Shawon 👋 </h1>
+<h3 align="center">I am AI & Machine Learning Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shajjad-142&label=Profile%20views&color=0e75b6&style=flat" alt="shajjad-142" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shajjadshawon15" target="blank"><img src="https://img.shields.io/twitter/follow/shajjadshawon15?logo=twitter&style=for-the-badge" alt="shajjadshawon15" /></a> </p>
 
-- 🔭 I’m currently working on **youtube**
+-  I’m currently working on **Financial Fraud Ring Detection Utilizing Machine Learning**
 
-- 🌱 I’m currently learning **JAVA**
+- I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **C & C++ & JAVA**
+- 💬 Ask me about **Competitive Problem solving & Machine Learning & Any research topic related with technology**
 
 - 📫 How to reach me **shajjadshawon0170@gmail.com  or  21225103142@cse.bubt.edu.bd**
 
