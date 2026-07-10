@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shajjad-142&label=Profile%20views&color=0e75b6&style=flat" alt="shajjad-142" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shajjadshawon15" target="blank"><img src="https://img.shields.io/twitter/follow/shajjadshawon15?logo=twitter&style=for-the-badge" alt="shajjadshawon15" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/MSH.ShawonOfficial" target="blank"><img  alt="shajjadshawon15" /></a> </p>
 
 -  I’m currently working on **Financial Fraud Ring Detection Utilizing Machine Learning**
 
@@ -25,6 +25,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajjad-142&show_icons=true&locale=en&layout=compact" alt="shajjad-142" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shajjad-142&show_icons=true&locale=en" alt="shajjad-142" /></p>
