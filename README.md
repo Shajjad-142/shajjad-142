@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shajjad-142&label=Profile%20views&color=0e75b6&style=flat" alt="shajjad-142" /> </p>
 
-<p align="left"> <a href="https://www.facebook.com/MSH.ShawonOfficial" target="blank"><img  alt="shajjadshawon15" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/MSH.ShawonOfficial" target="blank"><img  alt="shajjadshawon15" src="https://www.facebook.com/MSH.ShawonOfficial/?logo=facebook&style=for-the-badge"
+
+</a> </p>
 
 -  I’m currently working on **Financial Fraud Ring Detection Utilizing Machine Learning**
 
