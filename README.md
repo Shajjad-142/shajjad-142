@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 Research Interests
+##  Research Interests
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
@@ -73,13 +73,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shajjad-142&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -100,5 +93,5 @@
 ---
 
 <p align="center">
-<i>"Research. Learn. Build. Share. Repeat."</i> 🚀
+<i>"Research. Learn. Build. Share. Repeat."</i> 
 </p>
